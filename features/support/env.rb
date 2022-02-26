@@ -4,8 +4,6 @@ require "cep_brasil"
 require 'cpf_faker'
 require 'cucumber'
 require 'faker'
-require 'httparty'
-require 'pry-nav'
 require 'rspec'
 require 'selenium-webdriver'
 
