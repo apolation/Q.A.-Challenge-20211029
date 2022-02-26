@@ -11,18 +11,20 @@ Necessário instalar:
 
 Considerações
 ----------------------------------------------------------------------------------
-Escolhi Cucumber por ter mais domínio e conhecimento, uma das vantagens do cucumber é a facilidade de entender as regras de negócio utilizando Sintax do Gherkin.\n
-É uma solução opensource.\n
-Não possuo conhecimento sobre Selenium e Ghost Inspect, fiz algumas pesquisas sobre\n
-Selenium parece ser meio "travado" em sua execução.\n
-Ghost Inspect aparentemente é simples e intuitivo de criar os planos de testes, porém é uma solução paga.\n
+Escolhi Cucumber por ter mais domínio e conhecimento, uma das vantagens do cucumber é a facilidade de entender as regras de negócio utilizando Sintax do Gherkin.\
+É uma solução opensource.\
+Não possuo conhecimento sobre Selenium e Ghost Inspect, fiz algumas pesquisas sobre\
+Selenium parece ser meio "travado" em sua execução.\
+Ghost Inspect aparentemente é simples e intuitivo de criar os planos de testes, porém é uma solução paga.
 
-Link da apresentação:
+Obrigado pelo teste, estou à disposição para quaisquer esclarecimentos.
+-------------------------------
+
+Link da apresentação:\
 https://www.loom.com/embed/a95e61fabd6d4dfa8319a53449c09d78
 ----------------------------------------------------------------------
 
-Obrigado pelo teste, estou à disposição para quaisquer esclarecimentos.
------------------------------------------------------------------------
+
 
 Configurando o ambiente de automação de testes
 ------------------------------------------------------------
@@ -76,6 +78,7 @@ Automação de Testes
 --------------------
 
 Para a automação de testes algumas gems do Ruby são essenciais, sendo elas:
+*	Capybara
 *	Cucumber
 *	Rspec
 
