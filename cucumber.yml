@@ -1,0 +1,9 @@
+---
+default: --publish-quiet -p bdd -p local -f pretty -f html -o logs/report.html
+bdd: -f pretty
+dots: -f progress
+html: -f html -o logs/report.html
+allure: --format AllureCucumber::CucumberFormatter --out=logs
+local: CONFIG=local.yml
+chrome: BROWSER=chrome
+chrome_headless: BROWSER=chrome_headless
